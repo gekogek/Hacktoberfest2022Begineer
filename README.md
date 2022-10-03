@@ -1,4 +1,5 @@
 # October is here so is the Hacktoberfest
+# The biggest open-source event
 
 ## Instructions:
 
